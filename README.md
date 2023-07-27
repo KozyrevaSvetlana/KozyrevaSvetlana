@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KozyrevaSvetlana&show_icons=true&theme=radical" style="max-width: 100%;">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KozyrevaSvetlana&amp;theme=dark&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KozyrevaSvetlana&amp;theme=dark&amp;show_icons=true&amp;locale=en&amp;&layout=donut" >
 </div>
 <!--
 **KozyrevaSvetlana/KozyrevaSvetlana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
