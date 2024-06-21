@@ -1,5 +1,8 @@
 ### 👋
 <div>
+  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KozyrevaSvetlana&theme=algolia
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=KozyrevaSvetlana&show_icons=true&theme=radical" style="max-width: 100%;">
 </div>
 <div>
